@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(236, 140, 239);
+}
+
+.main-content {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid chartreuse;
+  border-radius: 5px;
+}
